@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://www.kapwing.com/videos/66b2afb2e970bff9b6171d31' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kapwing](https://www.kapwing.com/)
